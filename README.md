@@ -12,6 +12,7 @@ No matter the usecase, windows' mixer requires to many actions to operate, and i
 - 3d printable replaceable led lit icons
 - 3d printable case
 - Rubber feet to prevent it sliding around
+- Snap fit panel for easier maintenance
 
 ## Design Process
 
