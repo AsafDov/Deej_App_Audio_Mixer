@@ -15,4 +15,4 @@ No matter the usecase, windows' mixer requires to many actions to operate, and i
 
 ## Design Process
 I used OnShape to 3d model my mixer.
-![Collage](/assets/collage)
+![Collage](/assets/collage.png)
