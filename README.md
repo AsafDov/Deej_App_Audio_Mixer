@@ -3,10 +3,10 @@ When I play games with friends, I like to keep spotify running with my music pla
 Sometimes I like listening to music while watching Youtube videos as well, and sometimes I like music playing in the background during a teams work meeting. 
 No matter the usecase, windows' mixer requires to many actions to operate, and inteferes with the current activity. For example, during a game I need to pause and move the focus to the desktop before being able to access the equlizer.
  
-####I therefore present to you an arduino micro based solution that is a definite game changer for the convenience of multitasking
+#### I therefore present to you an arduino micro based solution that is a definite game changer for the convenience of multitasking
 ![Finished Product](/assets/Finished_Deej.jpg)
 
-## Features
+## ✨ Features
 - Buttons to instantly mute the channel. LED turns off.
 - Configurable volume dials to adjust the volume of **any application**
 - 3d printable replaceable led lit icons
@@ -14,7 +14,7 @@ No matter the usecase, windows' mixer requires to many actions to operate, and i
 - Rubber feet to prevent it sliding around
 - Snap fit panel for easier maintenance
 
-## Design Process
+## ⚙️ Design Process
 
 I used OnShape to 3d model my mixer.
 ![Collage](/assets/Collage.png)
